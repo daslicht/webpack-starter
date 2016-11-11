@@ -9,6 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1",
     "typescript": "^2.0.9"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^2.2.4",
+    "webpack": "^1",
+    "webpack-dev-server": "^1"
   }
 }
